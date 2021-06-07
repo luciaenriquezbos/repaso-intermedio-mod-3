@@ -29,7 +29,7 @@ class App extends React.Component {
     console.log("El estado es", this.state);
     return (
       <div>
-        <h1>El estado en React: prev state</h1>
+        <h1>El estado en React: kaka</h1>
         <button className="form__btn" onClick={this.handleButton}>
           Incrementar el contador
         </button>
